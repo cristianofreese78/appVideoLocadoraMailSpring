@@ -1,0 +1,33 @@
+{
+    "ownerRef":"Usuario",
+    "emailFrom":"email@gmail.com",
+    "emailTo":"email@gmail.com",
+    "subject":"Locação efetuada",
+    "text":"Ola, senhor(a) "nome da pessoa", o filme "nome do filme" foi alugado
+            no dia "data e hora da locação"."
+}
+
+{
+        "tituloFilme": "Sonic",
+        "duracaoFilme": "99",
+        "categoriaFilme": "Aventura",
+        "diretorFilme": "Jeff Fowler",
+        "atorFilme": "Jim Carrey",
+        "paisFilme": "EUA",
+        "statusFilme": "Disponivel"
+}
+
+{
+         "nome": "Joao",
+         "endereco": "R Y, 20, GA, BNU"
+}
+
+{
+        "idCliente": "cfe2b2bc-7163-4e6b-a28b-c457150885b9",
+        "idFilme": "fc6d0a69-717d-447b-b07d-8e0c9ba5b617"
+}
+
+/clienteLocadora
+/sending-email
+/filmeLocadora
+/efetuarLocacao
